@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/Train-Openpose-lstm/Saved model/model.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Train-Openpose-lstm/Saved model/model.ckpt"
